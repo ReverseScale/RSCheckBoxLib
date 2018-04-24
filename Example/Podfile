@@ -1,0 +1,14 @@
+use_frameworks!
+
+target 'RSCheckBoxLib_Example' do
+  pod 'RSCheckBoxLib', :path => '../'
+
+  target 'RSCheckBoxLib_Tests' do
+    inherit! :search_paths
+
+    pod 'Specta'
+    pod 'Expecta'
+    pod 'FBSnapshotTestCase'
+    pod 'Expecta+Snapshots'
+  end
+end
