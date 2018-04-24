@@ -9,7 +9,8 @@
 #ifndef ZZCheckBoxHeader_h
 #define ZZCheckBoxHeader_h
 
-#define ButtonImageNameNormal @"but_select_nor"
-#define ButtonImageNamePress @"but_select_press"
+#define ButtonImageNameNormal @"but_select_nor@3x.png"
+#define ButtonImageNamePress @"but_select_press@3x.png"
+
 
 #endif /* ZZCheckBoxHeader_h */
