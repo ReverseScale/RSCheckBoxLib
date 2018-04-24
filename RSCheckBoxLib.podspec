@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'RSCheckBoxLib'
-  s.version          = '0.1.0'
+  s.version          = '0.2.0'
   s.summary          = 'Simple single/checkbox tool.'
 
 # This description is used to generate tags and improve search results.
@@ -23,7 +23,7 @@ Simple to use single/checkbox controls.
 
   s.homepage         = 'https://github.com/ReverseScale/RSCheckBoxLib'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
-  s.license          = { :type => 'MIT', :file => 'LICENSE' }
+  s.license          = 'MIT'
   s.author           = { 'ReverseScale@icloud.com' => 'reversescale@icloud.com' }
   s.source           = { :git => 'https://github.com/ReverseScale/RSCheckBoxLib.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
