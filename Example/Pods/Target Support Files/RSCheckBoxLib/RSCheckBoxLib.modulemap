@@ -1,0 +1,6 @@
+framework module RSCheckBoxLib {
+  umbrella header "RSCheckBoxLib-umbrella.h"
+
+  export *
+  module * { export * }
+}
